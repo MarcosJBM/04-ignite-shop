@@ -40,7 +40,7 @@ export const ProductDetails = styled('div', {
     marginTop: '1rem',
     display: 'block',
     fontSize: '$2xl',
-    color: '$gray300',
+    color: '$green300',
   },
 
   p: {
