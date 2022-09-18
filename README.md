@@ -40,3 +40,10 @@ Estas foram as principais tecnologias utilizadas no desenvolvimento da aplicaç�
 - [Stripe](https://stripe.com/br)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Keen Slider](https://keen-slider.io/)
+
+# 🚀 Desafios
+
+Funcionalidades extras adicionadas na aplicação, além de alguns ajustes.
+
+- [ ] Carrinho de Compras (O usuário pode adicionar produtos em um carrinho de compras).
+- [ ] Responsividade melhorada em dispositivos móveis.
