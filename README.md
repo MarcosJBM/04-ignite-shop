@@ -5,7 +5,8 @@
 <div align='center'>
   <a href='#about'>📖 Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#design">🎨 Design</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href='#technologies'>🔩 Tecnologias</a>
+  <a href='#technologies'>🔩 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href='#challenges'>🚀 Desafios</a>
 </div>
 
 </br>
@@ -13,6 +14,8 @@
 <div align="center">
   <img src=".github/front-cover.svg" alt="Capa do projeto Ignite Shop" width="780px" />
 </div>
+
+<a id="about"></a>
 
 # 📖 Sobre o Projeto
 
@@ -40,6 +43,8 @@ Estas foram as principais tecnologias utilizadas no desenvolvimento da aplicaç�
 - [Stripe](https://stripe.com/br)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Keen Slider](https://keen-slider.io/)
+
+<a id="challenges"></a>
 
 # 🚀 Desafios
 
