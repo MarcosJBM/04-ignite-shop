@@ -1,6 +1,6 @@
 import { styled } from '..';
 
-export const ShoppingCardButtonContainer = styled('div', {
+export const ShoppingCartButtonContainer = styled('div', {
   display: 'flex',
   justifyContent: 'center',
   alignItems: 'center',
@@ -11,18 +11,32 @@ export const ShoppingCardButtonContainer = styled('div', {
   borderRadius: 6,
 
   backgroundColor: '$gray800',
+
+  svg: {
+    position: 'absolute',
+  },
 });
 
 export const QuantityOfItens = styled('div', {
-  display: 'flex',
-  justifyContent: 'center',
-  alignItems: 'center',
-
-  width: '1.75rem',
-  height: '1.75rem',
+  position: 'relative',
+  top: -18,
+  left: 20,
 
   borderRadius: '50%',
-  border: '4px solid $gray900',
+  border: '3px solid $gray900',
 
   backgroundColor: '$green500',
+
+  span: {
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+
+    width: '1.5rem',
+    height: '1.5rem',
+
+    fontSize: '0.875rem',
+
+    color: '$white',
+  },
 });
