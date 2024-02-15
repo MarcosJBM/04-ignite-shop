@@ -1,54 +1,26 @@
-<div align='center'>
-  <img src='.github/logo.svg' alt='Logo do projeto'/>
-</div>
-
-<div align='center'>
-  <a href='#about'>📖 Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#design">🎨 Design</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href='#technologies'>🔩 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href='#challenges'>🚀 Desafios</a>
-</div>
-
-</br>
-
 <div align="center">
-  <img src=".github/front-cover.svg" alt="Capa do projeto Ignite Shop" width="780px" />
+  <img src=".github/cover.svg" alt="Project cover" width="720" />
 </div>
 
-<a id="about"></a>
+# 📖 About
 
-# 📖 Sobre o Projeto
+**Ignite Shop** is a simple e-commerce for shirts.
 
-O **Ignite Shop** é simples e-commerce de camisas.
+Project developed during [Rocketseat's](https://www.rocketseat.com.br/) Ignite course, React trail.
 
-É o quarto projeto a ser desenvolvido na trilha de ReactJS do curso Ignite da Rocketseat de 2022.
+# 💻 Site
 
-A aplicação foi hospedada na [**Vercel**](https://vercel.com/), caso queira dar uma olhada, clique [**aqui**](https://04-ignite-shop.vercel.app/).
-
-<a id="design"></a>
+Access the [application](https://04-ignite-shop.vercel.app/) and take a look.
 
 # 🎨 Design
 
-O design da aplicação está disponivel no Figma, caso tenha interesse, clique [**aqui**](https://www.figma.com/file/XirVR9rX4Jhlxq1T7pvaoE/Ignite-Shop-2.0-Copy).
+The application design is available on [**Figma**](https://www.figma.com/), if you are interested, click [**here**](https://www.figma.com/file/XirVR9rX4Jhlxq1T7pvaoE/Ignite-Shop-2.0-Copy).
 
-<a id="technologies"></a>
+# 🔩 Technologies
 
-# 🔩 Tecnologias
-
-Estas foram as principais tecnologias utilizadas no desenvolvimento da aplicação.
-
-- [ReactJS](https://pt-br.reactjs.org/)
-- [NextJS](https://nextjs.org/)
+- [React](https://react.dev/)
+- [Next.js](https://nextjs.org/)
 - [Stitches](https://stitches.dev/)
 - [Stripe](https://stripe.com/br)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Keen Slider](https://keen-slider.io/)
-
-<a id="challenges"></a>
-
-# 🚀 Desafios
-
-Funcionalidades extras adicionadas na aplicação, além de alguns ajustes.
-
-- [ ] Carrinho de Compras (O usuário pode adicionar produtos em um carrinho de compras).
-- [ ] Responsividade melhorada em dispositivos móveis.
